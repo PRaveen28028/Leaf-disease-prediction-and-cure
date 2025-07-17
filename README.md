@@ -15,7 +15,7 @@ This plant leaf disease detection project was developed using Python, Flask, Ten
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Run the Flask web application using `python app.py`.
+3. Run the Flask web application using `python leaf.py`.
 4. Access the web application in your browser at `http://localhost:5000`.
 5. Upload images of plant leaves to get predictions for plant diseases.
 
