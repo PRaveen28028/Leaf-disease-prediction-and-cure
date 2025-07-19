@@ -29,4 +29,4 @@ Contributions to the Plant Leaf Disease Detection Project are welcome! If you fi
 
 ## Contact
 
-For any inquiries or questions, please contact [naik70751@gmail.com](mailto:your-email-address). We would love to hear your feedback and suggestions!
+For any inquiries or questions, please contact [saqlainrashed2001@gmail.com](mailto:your-email-address). We would love to hear your feedback and suggestions!
